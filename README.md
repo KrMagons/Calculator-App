@@ -1,5 +1,3 @@
-#  CalculatorUIKit
-
 Concepts convered:
 1. Storyboard UI and connecting them to IBOutlets or IBActions
 2. Computed properties
@@ -8,3 +6,4 @@ Concepts convered:
 5. Organizing code
 6. Refactoring code
 
+Project created following Udemy course "Practical Programming For Swift & IOS Development" by Ryan Kanno
